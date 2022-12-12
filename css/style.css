@@ -99,4 +99,7 @@ header nav .form {
     margin-left: 35px;
     border-left: 1px solid white;
 }
+header nav .form i {
+    color: white;
+}
 /* end header */
