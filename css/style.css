@@ -45,13 +45,13 @@ ul {
 header {
 
 }
-header.container {
+header .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
     position: relative;
 }
-header.container::after {
+header .container::after {
     content: "";
     position: absolute;
     height: 1px;
