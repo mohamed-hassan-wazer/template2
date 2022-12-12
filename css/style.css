@@ -101,6 +101,9 @@ header nav .toggle-menu:hover + ul {
     width: 100%;
     background-color: black;
 }
+header nav .toggle-menu:hover + ul a {
+    padding: 15px;
+}
 header nav ul li a {
     display: block;
     color: white;
