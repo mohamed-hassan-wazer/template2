@@ -1,1 +1,4 @@
 /* start global rules */
+* {
+    box-sizing: border-box;
+}
