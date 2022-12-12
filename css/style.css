@@ -63,5 +63,7 @@ header .container::after {
 header .logo img {
     border-radius: 60px;
 }
-
+header nav {
+    flex: 1;
+}
 /* end header */
