@@ -46,6 +46,6 @@ header {
 
 }
 header.container {
-    
+    display: flex;
 }
 /* end header */
