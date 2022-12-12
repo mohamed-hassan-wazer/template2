@@ -85,4 +85,8 @@ header nav ul li a {
     transition: 0.3s;
     padding: 40px 15px;
 }
+header nav ul li a.active,
+header nav ul li a:hover {
+    color: var(main-color);
+}
 /* end header */
