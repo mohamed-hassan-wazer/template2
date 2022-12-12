@@ -99,6 +99,7 @@ header nav .toggle-menu:hover + ul {
     top: 100%;
     left: 0;
     width: 100%;
+    background-color: black;
 }
 header nav ul li a {
     display: block;
