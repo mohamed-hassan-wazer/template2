@@ -85,6 +85,7 @@ header nav ul li a {
     transition: 0.3s;
     padding: 40px 15px;
     position: relative;
+    z-index: 2;
 }
 header nav ul li a.active,
 header nav ul li a:hover {
