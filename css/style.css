@@ -60,4 +60,8 @@ header .container::after {
     width: calc(100% - 30px);
     left: 15px;
 }
+header .logo img {
+    border-radius: 60px;
+}
+
 /* end header */
