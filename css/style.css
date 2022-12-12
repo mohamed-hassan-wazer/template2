@@ -97,6 +97,7 @@ header nav .toggle-menu:hover + ul {
     flex-direction: column;
     position: absolute;
     top: 100%;
+    left: 0;
 }
 header nav ul li a {
     display: block;
