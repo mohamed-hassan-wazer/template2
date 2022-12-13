@@ -71,6 +71,7 @@ ul {
 .main-heading h2::after {
     content: "";
     position: absolute;
+    left: 50%;
 }
 /* end component */
 /* start header */
