@@ -48,7 +48,9 @@ ul {
 }
 /* end global rules*/
 /* start component */
-.main-heading
+.main-heading {
+    text-align: center;
+}
 /* end component */
 /* start header */
 header {
