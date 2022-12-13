@@ -164,5 +164,6 @@ header nav .form i {
     padding: 50px;
     color: white;
     background-color: var(--transparent-color);
+    display: flex;
 }
 /* end landing */
