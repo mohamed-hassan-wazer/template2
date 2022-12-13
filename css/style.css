@@ -2,6 +2,7 @@
 :root {
     --main-color: #19c8fa ;
     --transparent-color: rgb(15 116 143 / 70%);
+    --section-padding:100px;
 }
 /* end variable */
 /* start global rules */
@@ -269,4 +270,7 @@ header nav .form i {
 }
 /* end landing */
 /* start services */
+.services {
+    padding-top:var(--section-padding) ;
+}
 /* end services */
