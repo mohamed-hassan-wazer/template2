@@ -199,4 +199,7 @@ header nav .form i {
     bottom: 30px;
     display: flex;
 }
+.landing .bullets li {
+    width: 20px;
+}
 /* end landing */
