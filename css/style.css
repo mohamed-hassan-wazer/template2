@@ -176,4 +176,7 @@ header nav .form i {
     line-height: 1.2;
     margin-bottom: 20px;
 }
+.landing .text .content p {
+    font-size: 14px;
+}
 /* end landing */
