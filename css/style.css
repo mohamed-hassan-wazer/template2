@@ -62,6 +62,7 @@ ul {
     content: "";
     position: absolute;
     left: 50%;
+    transform: translateX(-50%);
 }
 /* end component */
 /* start header */
