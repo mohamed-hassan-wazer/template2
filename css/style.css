@@ -196,5 +196,6 @@ header nav .form i {
     position: absolute;
     left: 50%;
     transform: translateY(-50%);
+    bottom: 30px;
 }
 /* end landing */
