@@ -379,4 +379,7 @@ header nav .form i {
     display: flex;
     justify-content: center;
 }
+.portfolio .shuffel li {
+    padding: 10px;
+}
 /* end portfolio */
