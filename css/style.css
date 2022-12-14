@@ -382,7 +382,7 @@ header nav .form i {
 .portfolio .shuffel li {
     padding: 10px;
 }
-.portfolio .shuffel li.active {
+.portfolio .shuffel li .active {
     background-color: var(--main-color);
     color: white;
 }
