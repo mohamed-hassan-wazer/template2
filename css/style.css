@@ -309,4 +309,7 @@ header nav .form i {
 }
 /* end services */
 /* star design */
+.design {
+    padding-top:var(--section-padding) ;
+}
 /* end design */
