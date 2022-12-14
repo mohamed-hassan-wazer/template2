@@ -337,6 +337,7 @@ header nav .form i {
     text-align: center;
 }
 .design .image img {
-    position: relative;
+    position: relative;\
+    bottom: -150px;
 }
 /* end design */
