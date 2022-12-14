@@ -315,5 +315,6 @@ header nav .form i {
     height: 600px;
     position: relative;
     background-size: cover;
+    display: flex;
 }
 /* end design */
