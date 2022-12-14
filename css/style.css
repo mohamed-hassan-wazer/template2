@@ -395,6 +395,12 @@ header nav .form i {
     overflow: hidden;
     position: relative;
 }
+.portfolio .img-container .box:hover .caption {
+
+}
+.portfolio .img-container .box:hover img {
+
+}
 @media(min-width: 768px) {
     .portfolio .img-container .box {
         flex-basis: 50%;
@@ -407,6 +413,7 @@ header nav .form i {
 }
 .portfolio .img-container .box img {
     max-width: 100%;
+    transition: 0.3s;
 }
 .portfolio .img-container .box .caption {
     position: absolute;
