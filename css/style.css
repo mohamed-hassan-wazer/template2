@@ -392,6 +392,7 @@ header nav .form i {
     margin-top: 60px;
 }
 .portfolio .img-container .box {
+    overflow: hidden;
     position: relative;
 }
 @media(min-width: 768px) {
