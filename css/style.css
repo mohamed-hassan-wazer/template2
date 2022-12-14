@@ -389,6 +389,7 @@ header nav .form i {
 .portfolio .img-container {
     display: flex;
     flex-wrap: wrap;
+    margin-top: 60px;
 }
 .portfolio .img-container .box {
 
