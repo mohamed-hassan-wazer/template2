@@ -386,4 +386,13 @@ header nav .form i {
     background-color: var(--main-color);
     color: white;
 }
+.portfolio .img-container {
+
+}
+.portfolio .img-container .box {
+
+}
+.portfolio .img-container .box img {
+    max-width: 100%;
+}
 /* end portfolio */
