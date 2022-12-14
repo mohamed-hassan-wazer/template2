@@ -384,5 +384,6 @@ header nav .form i {
 }
 .portfolio .shuffel li.active {
     background-color: var(--main-color);
+    color: white;
 }
 /* end portfolio */
