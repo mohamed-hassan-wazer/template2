@@ -407,4 +407,7 @@ header nav .form i {
 .portfolio .img-container .box img {
     max-width: 100%;
 }
+.portfolio .img-container .box .caption {
+    position: absolute;
+}
 /* end portfolio */
