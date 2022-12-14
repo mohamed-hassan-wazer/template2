@@ -388,6 +388,7 @@ header nav .form i {
 }
 .portfolio .img-container {
     display: flex;
+    flex-wrap: wrap;
 }
 .portfolio .img-container .box {
 
