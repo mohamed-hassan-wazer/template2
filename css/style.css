@@ -316,5 +316,6 @@ header nav .form i {
     position: relative;
     background-size: cover;
     display: flex;
+    align-items: center;
 }
 /* end design */
