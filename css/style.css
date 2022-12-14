@@ -427,4 +427,7 @@ header nav .form i {
     font-weight: normal;
     margin-bottom: 10px;
 }
+.portfolio .img-container .box .caption p {
+    color: var(--main-color);
+}
 /* end portfolio */
