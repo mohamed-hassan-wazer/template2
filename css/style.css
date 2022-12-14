@@ -425,5 +425,6 @@ header nav .form i {
     bottom: -100%;
 }.portfolio .img-container .box .caption h4 {
     font-weight: normal;
+    margin-bottom: 10px;
 }
 /* end portfolio */
