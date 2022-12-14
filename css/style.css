@@ -396,7 +396,7 @@ header nav .form i {
     position: relative;
 }
 .portfolio .img-container .box:hover .caption {
-
+    bottom: 0;
 }
 .portfolio .img-container .box:hover img {
 
