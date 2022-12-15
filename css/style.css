@@ -510,5 +510,8 @@ header nav .form i {
     background-size: cover;
     position: relative;
 }
+.stats {
+    content: "";
+}
 /* end stats */
 /* end about */
