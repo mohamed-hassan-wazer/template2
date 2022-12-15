@@ -585,4 +585,7 @@ header nav .form i {
     text-align: center;
     text-transform: uppercase;
 }
+.our-skills .container > div > p {
+    color: #777;
+}
 /* end skills */
