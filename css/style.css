@@ -697,5 +697,8 @@ header nav .form i {
 .quote .container {
     position: relative;
 }
+.quote q {
+    font-size: 30px;
+}
 /* end quote */
 /* end skills */
