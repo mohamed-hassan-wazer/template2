@@ -549,6 +549,7 @@ header nav .form i {
     display: flex;
     background-color: black;
     justify-content: center;
+    align-items: center;
 }
 /* end stats */
 /* end about */
