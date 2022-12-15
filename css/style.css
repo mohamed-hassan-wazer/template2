@@ -652,6 +652,7 @@ header nav .form i {
 }
 .our-skills .skills .prog-holder .prog span {
     display: block;
+    background-color: var(--main-color);
 }
 .our-skills .skills .prog-holder .prog span::before {
     content: "";
