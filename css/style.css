@@ -610,4 +610,10 @@ header nav .form i {
         margin: 0 auto 20px;
     }
 }
+.our-skills .testimonials .text {
+    line-height: 2;
+}
+.our-skills .testimonials .text p {
+
+}
 /* end skills */
