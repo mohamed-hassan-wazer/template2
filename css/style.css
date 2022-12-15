@@ -461,5 +461,6 @@ header nav .form i {
     width: 100%;
     position: absolute;
     top: 50%;
+    transform: translateY(-50);
 }
 /* end video */
