@@ -660,6 +660,7 @@ header nav .form i {
     content: attr(data-progrees);
     position: absolute;
     background-color: black ;
+    color: white;
 }
 .our-skills .skills .prog-holder .prog span::after {
 
