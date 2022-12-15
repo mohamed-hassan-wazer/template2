@@ -442,4 +442,7 @@ header nav .form i {
 }
 /* end portfolio */
 /* star video */
+.video {
+    position: relative;
+}
 /* end video */
