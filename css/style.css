@@ -514,6 +514,7 @@ header nav .form i {
     content: "";
     left: 0;
     top: 0;
+    width: 100%;
 }
 /* end stats */
 /* end about */
