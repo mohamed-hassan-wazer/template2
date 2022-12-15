@@ -677,5 +677,8 @@ header nav .form i {
     top: -15px;
 }
 /* start qoute */
+.quote {
+    padding-top: var(--section-padding) ;
+}
 /* end quote */
 /* end skills */
