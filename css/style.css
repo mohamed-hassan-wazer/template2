@@ -506,6 +506,7 @@ header nav .form i {
     padding-top: var(--section-padding) ;
     padding-bottom: var(--section-padding) ;
     text-align: center;
+    background-image: url(../images/stats.jpg);
 }
 /* end stats */
 /* end about */
