@@ -681,6 +681,7 @@ header nav .form i {
     padding-top: var(--section-padding) ;
     padding-bottom: var(--section-padding) ;
     background-image: url(../images/quote.jpg);
+    background-size: cover;
 }
 /* end quote */
 /* end skills */
