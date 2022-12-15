@@ -553,5 +553,8 @@ header nav .form i {
     border-radius: 50%;
     margin: 0 auto 30px;
 }
+.stats .container .box .number {
+    font-size: 50px;
+}
 /* end stats */
 /* end about */
