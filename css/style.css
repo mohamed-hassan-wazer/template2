@@ -550,6 +550,7 @@ header nav .form i {
     background-color: black;
     justify-content: center;
     align-items: center;
+    border-radius: 50%;
 }
 /* end stats */
 /* end about */
