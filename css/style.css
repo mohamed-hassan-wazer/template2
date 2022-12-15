@@ -669,6 +669,6 @@ header nav .form i {
     border-radius: 4px;
 }
 .our-skills .skills .prog-holder .prog span::after {
-
+    position: absolute;
 }
 /* end skills */
