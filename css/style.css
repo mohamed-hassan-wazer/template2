@@ -612,6 +612,7 @@ header nav .form i {
 }
 .our-skills .testimonials .text {
     line-height: 2;
+    border-bottom: 1px solid #ccc;
 }
 .our-skills .testimonials .text p {
 
