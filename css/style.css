@@ -672,8 +672,9 @@ header nav .form i {
     position: absolute;
     border-style: solid;
     border-width: 8px;
-    border-color: red green blue brown;
+    border-color: black transparent transparent ;
     right: -8px;
     top: -15px;
+
 }
 /* end skills */
