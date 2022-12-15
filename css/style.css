@@ -564,4 +564,7 @@ header nav .form i {
 /* end stats */
 /* end about */
 /* start skills */
+.our-skills {
+    padding-top: var(--section-padding) ;
+}
 /* end skills */
