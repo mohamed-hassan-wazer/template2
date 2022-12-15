@@ -512,6 +512,7 @@ header nav .form i {
 }
 .stats {
     content: "";
+    left: 0;
 }
 /* end stats */
 /* end about */
