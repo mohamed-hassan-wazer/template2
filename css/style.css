@@ -682,6 +682,7 @@ header nav .form i {
     padding-bottom: var(--section-padding) ;
     background-image: url(../images/quote.jpg);
     background-size: cover;
+    position: relative;
 }
 /* end quote */
 /* end skills */
