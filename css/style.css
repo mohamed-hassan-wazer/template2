@@ -686,5 +686,8 @@ header nav .form i {
     text-align: center;
     color: white;
 }
+.quote::before {
+    content: "";
+}
 /* end quote */
 /* end skills */
