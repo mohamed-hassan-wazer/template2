@@ -508,6 +508,7 @@ header nav .form i {
     text-align: center;
     background-image: url(../images/stats.jpg);
     background-size: cover;
+    position: relative;
 }
 /* end stats */
 /* end about */
