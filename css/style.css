@@ -591,4 +591,18 @@ header nav .form i {
     text-align: center;
     margin-bottom: 60px;
 }
+.our-skills .testimonials .content {
+
+}
+.our-skills .testimonials .content img {
+    width: 100px;
+}
+@media(max-width:767px) {
+    .our-skills .testimonials .content {
+
+    }
+    .our-skills .testimonials .content img {
+
+    }
+}
 /* end skills */
