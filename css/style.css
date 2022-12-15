@@ -579,4 +579,7 @@ header nav .form i {
         flex-basis: 45%;
     }
 }
+.our-skills .container > div > h3 {
+    margin: 0 0 30px;
+}
 /* end skills */
