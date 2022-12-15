@@ -487,5 +487,6 @@ header nav .form i {
 .about {
     padding-top: var(--section-padding) ;
     overflow: hidden;
+    text-align: center;
 }
 /* end about */
