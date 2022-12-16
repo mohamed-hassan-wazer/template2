@@ -730,6 +730,6 @@ header nav .form i {
     content: "$";
 }
 .pricing .plans .plan .head span::after {
-
+    content: "/Mo";
 }
 /* end pricing */
