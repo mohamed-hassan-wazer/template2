@@ -705,4 +705,7 @@ header nav .form i {
 /* end quote */
 /* end skills */
 /* start pricing */
+.pricing {
+    padding-top: var(--section-padding) ;
+}
 /* end pricing */
