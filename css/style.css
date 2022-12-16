@@ -960,4 +960,7 @@ header nav .form i {
 .footer .container {
     position: relative;
 }
+.footer img {
+    margin-bottom: 20px;
+}
   /* end Footer */
