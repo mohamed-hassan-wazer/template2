@@ -757,5 +757,6 @@ header nav .form i {
     content: "";
     width: 140px;
     height: 1px;
+    background-color: var(--main-color);
 }
 /* end pricing */
