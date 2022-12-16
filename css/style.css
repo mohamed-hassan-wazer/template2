@@ -948,4 +948,7 @@ header nav .form i {
     color: white;
     text-align: center;
 }
+.footer::before {
+    content: "";
+}
   /* end Footer */
