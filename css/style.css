@@ -709,4 +709,10 @@ header nav .form i {
     padding-top: var(--section-padding) ;
     padding-bottom: var(--section-padding) ;
 }
+.pricing .plans {
+    display: grid;
+}
+.pricing .plans .plan {
+
+}
 /* end pricing */
