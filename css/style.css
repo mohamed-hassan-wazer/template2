@@ -761,5 +761,6 @@ header nav .form i {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+    bottom: 0;
 }
 /* end pricing */
