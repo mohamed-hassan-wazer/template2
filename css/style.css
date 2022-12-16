@@ -939,4 +939,8 @@ header nav .form i {
 }
   /* End Contact */
   /* Start Footer */
+.footer {
+    padding-top: calc(var(--section-padding) / 2);
+    
+}
   /* end Footer */
