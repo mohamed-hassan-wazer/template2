@@ -717,4 +717,19 @@ header nav .form i {
 .pricing .plans .plan {
 
 }
+.pricing .plans .plan .head {
+
+}
+.pricing .plans .plan .head h3 {
+
+}
+.pricing .plans .plan .head span {
+
+}
+.pricing .plans .plan .head span::before {
+    content: "$";
+}
+.pricing .plans .plan .head span::after {
+
+}
 /* end pricing */
